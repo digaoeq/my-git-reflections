@@ -1,0 +1,14 @@
+Curso de Github da Udacity
+
+game.js
+
+Diff
+
+Como visualizar a diferença entre duas versões te ajudam a encontrar um bug?
+
+Uma nova versão implica uma antiga versão modificada. Os bugs de versões novas são causados por alterações em versões antigas. Assim você consegue verificar qual foi a alteração que causou o bug. 
+
+VC = version comparison practice
+
+No terminal, há pasta de aplicativos para o usuário e para o computador. A barra invertida significa espaço na linha de comando: para acessar um diretório cujo nome tem espaço, use a barra invertida.
+
