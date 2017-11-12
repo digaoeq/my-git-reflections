@@ -1,0 +1,4 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+Sempre que houver um time de desenvolvimento, fará mais sentido que o repositório seja remoto.
+
