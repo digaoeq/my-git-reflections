@@ -9,7 +9,7 @@ Bifurcação: copiar de uma conta GitHub para sua conta GitHub
 Clonar: copiar um diretório de uma conta para o Git local, ou dentro do próprio computador
 Branch:  uma ramificação do histórico de commits
 
-
-
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Você reduz a probabilidade de conflitos ao realizar um merge posteriormente, pois modificará o código mais recente disponvel.
 
 
