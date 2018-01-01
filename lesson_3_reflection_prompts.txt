@@ -13,5 +13,7 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 Você reduz a probabilidade de conflitos ao realizar um merge posteriormente, pois modificará o código mais recente disponível.
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
-
 Seria difícil, pois todo o trabalho que é feito automaticamente pelo Git precisaria ser feito manualmente (comparação linha a linha de todas as versões). Isso tornaria o trabalho mais lento e multiplicaria o retrabalho. O único ponto relativamente fácil de ser colocado em prática é o controle de versão, pois um bom conjunto de regras para manutenção de diretórios poderia dar conta do recado - claro, seria extremamente mais trabalhoso para gerenciar as pastas!
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+Quando estou trabalhando em uma ideia de desenvolvimento, e não desejo alterar o arquivo original. Se a ideia demandar muito trabalho, terei que manter uma cópia do código em andamento, e por isso não é adequado alterar o master, pois outros podem ter a mesma necessidade que eu - obter o código original para trabalhar em uma ideia qualquer.
