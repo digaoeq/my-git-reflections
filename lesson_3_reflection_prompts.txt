@@ -10,6 +10,8 @@ Clonar: copiar um diretório de uma conta para o Git local, ou dentro do própri
 Branch:  uma ramificação do histórico de commits
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
-Você reduz a probabilidade de conflitos ao realizar um merge posteriormente, pois modificará o código mais recente disponvel.
+Você reduz a probabilidade de conflitos ao realizar um merge posteriormente, pois modificará o código mais recente disponível.
 
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 
+Seria difícil, pois todo o trabalho que é feito automaticamente pelo Git precisaria ser feito manualmente (comparação linha a linha de todas as versões). Isso tornaria o trabalho mais lento e multiplicaria o retrabalho. O único ponto relativamente fácil de ser colocado em prática é o controle de versão, pois um bom conjunto de regras para manutenção de diretórios poderia dar conta do recado - claro, seria extremamente mais trabalhoso para gerenciar as pastas!
